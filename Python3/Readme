@@ -1,1 +1,14 @@
+Requirement
+1. Python3
+      https://www.python.org/download/releases/3.0/
+      
+2. pyAesCrypt 0.4.2
+      Install this package in python3
+      pip install pyAesCrypt
+      try
+      pip3 install pyAesCrypt
+      
+3.Tkinter 
+      sudo apt-get install python python3-tk
 
+*Run program in python3*
